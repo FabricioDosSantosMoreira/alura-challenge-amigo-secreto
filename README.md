@@ -1,1 +1,1 @@
-# alura-challenge-amigo-secreto
+# Challenge da Alura | Amigo Secreto
